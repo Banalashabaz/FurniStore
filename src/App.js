@@ -9,6 +9,7 @@ function App() {
  
   return (
     <div className="App">
+      <h1>Furniture store</h1>
       <Homepage></Homepage>
       <Page2></Page2>
       <Page3 />
